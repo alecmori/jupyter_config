@@ -1,1 +1,5 @@
+keras
 jupyter
+numpy
+pandas
+sklearn
