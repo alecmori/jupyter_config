@@ -1,5 +1,9 @@
 keras
 jupyter
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+jupyterthemes
+matplotlib
 numpy
 pandas
 sklearn
