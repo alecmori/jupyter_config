@@ -6,4 +6,8 @@ jupyterthemes
 matplotlib
 numpy
 pandas
+pillow
+scipy==1.4.1
 sklearn
+tensorflow
+
