@@ -1,5 +1,7 @@
 venv:
-	virtualenv --python=python3 venv -r requirements.txt
+	virtualenv --python=python3 venv
+	venv/bin/pip install -r requirements.txt
+	
 
 jupyter_extentions:
 	jupyter contrib nbextension install --user
