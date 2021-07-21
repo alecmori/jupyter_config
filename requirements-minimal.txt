@@ -1,14 +1,16 @@
+altair
 imageio
 jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 jupyterthemes
 keras
-matplotlib
+nose
+notebook-as-pdf
 numpy
 pandas
 pillow
-scipy==1.4.1
+scipy
 sklearn
 tensorflow
 
